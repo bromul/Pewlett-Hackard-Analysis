@@ -26,4 +26,8 @@ Unfortunately, only 1549 employees are eligible for mentorship positions, leavin
 
 ### Further Analysis
 
-Then, provide 2 additional queries or tables that may provide more insight into the 'silver tsunami'
+Additional queries that may provide more insigtht into the 'silver tsunami':
+- Retrieving counts of retiring employees by _department_ may provide the company more insight into which departments will be more susceptible to the 'silver tsunami'.
+- Looking into retirees genders may allow Pewlett Hackard to determine gender distributions among upper managements, and would allow the company to fix any disparities that might be found.
+- Noting the average salaries for specific job titles could allow Pewlett Hacakard to update the salaries of specific and necessary positions that may be left unfilled via the 'silver tsunami' and entice potential employees to fill them.
+
